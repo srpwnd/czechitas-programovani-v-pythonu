@@ -1,4 +1,4 @@
-# Napiš kód, který zpracuje seznam čísel 
+# Napiš kód, který zpracuje seznam čísel
 # a vypíše jejich součet (bez použití funkce sum()).
 
 numbers = [1, 2, 3]

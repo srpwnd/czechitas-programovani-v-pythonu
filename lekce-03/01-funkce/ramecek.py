@@ -5,4 +5,5 @@ def orameckuj(slovo, znak="*"):
     print(stred)
     print(ram)
 
+
 orameckuj("ahoj", "#")

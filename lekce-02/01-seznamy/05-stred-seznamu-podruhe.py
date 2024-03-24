@@ -1,4 +1,4 @@
-# Sestavte vzoreček, který vrátí číslo nacházející se přesně uprostřed v zadaném seznamu s. 
+# Sestavte vzoreček, který vrátí číslo nacházející se přesně uprostřed v zadaném seznamu s.
 # Tentokrát však u seznamů sudé délky vyberte jako střed číslo blíž k začátku seznamu.
 
 s = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

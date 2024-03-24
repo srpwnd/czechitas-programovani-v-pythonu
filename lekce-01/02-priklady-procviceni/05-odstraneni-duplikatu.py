@@ -1,5 +1,5 @@
-# Napiš kód, který zpracuje seznam 
-# a vytvoří nový seznam bez duplikátů. 
+# Napiš kód, který zpracuje seznam
+# a vytvoří nový seznam bez duplikátů.
 # Výsledné pořadí prvků musí být zachováno.
 
 numbers = [1, 2, 2, 3, 3, 3]

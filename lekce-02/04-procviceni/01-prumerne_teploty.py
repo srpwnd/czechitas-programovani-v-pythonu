@@ -33,12 +33,12 @@ radky = [
     [2007, 9.1],
     [2008, 8.9],
     [2009, 8.4],
-    [2010, 7.2]
+    [2010, 7.2],
 ]
 
 sloupce = [
     [2001, 2002, 2003, 2004, 2005, 2005, 2007, 2008, 2009, 2010],
-    [7.8, 8.7, 8.2, 7.8, 7.7, 8.2, 9.1, 8.9, 8.4, 7.2]
+    [7.8, 8.7, 8.2, 7.8, 7.7, 8.2, 9.1, 8.9, 8.4, 7.2],
 ]
 
 print(f"Teplota na tretim radku: {radky[4][1]} a {sloupce[1][4]}")
@@ -51,7 +51,9 @@ radky_bez_prvnich_dvou = radky[2:]
 
 sloupce_bez_prvnich_dvou = [sloupce[0][2:], sloupce[1][2:]]
 
-print(f"Tabulka bez prvnich dvou radku: {radky_bez_prvnich_dvou} a {sloupce_bez_prvnich_dvou}")
+print(
+    f"Tabulka bez prvnich dvou radku: {radky_bez_prvnich_dvou} a {sloupce_bez_prvnich_dvou}"
+)
 
 radky_jen_prvni_dva = radky[:2]
 

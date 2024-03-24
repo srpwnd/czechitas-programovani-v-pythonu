@@ -19,11 +19,11 @@
 # Vypočítej průměrné body z jednotlivých otázek. Ze které otázky dostali studenti v průměru nejvíce bodů? A ze které naopak nejméně?
 
 points = [
-    ['A' , 9 , 7 , 8 , 5],
-    ['B' , 5 , 3 , 6 , 6],
-    ['C' , 8 , 4 , 9 , 7],
-    ['D' , 8 , 5 , 4 , 8],
-    ['E' , 10 , 6 , 10 , 7]
+    ["A", 9, 7, 8, 5],
+    ["B", 5, 3, 6, 6],
+    ["C", 8, 4, 9, 7],
+    ["D", 8, 5, 4, 8],
+    ["E", 10, 6, 10, 7],
 ]
 
 grades = []
@@ -44,5 +44,3 @@ for student in points:
 print("Vysledne znamky:")
 for grading in grades:
     print(f"Student {grading[0]} dostal znamku {grading[1]}")
-
-

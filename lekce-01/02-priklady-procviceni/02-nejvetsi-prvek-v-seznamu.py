@@ -1,5 +1,5 @@
-# Napiš kód, který zpracuje seznam čísel 
-# a vypíše největší prvek v tomto seznamu 
+# Napiš kód, který zpracuje seznam čísel
+# a vypíše největší prvek v tomto seznamu
 # (bez použití funkce max()).
 
 numbers = [1, 2, 3]

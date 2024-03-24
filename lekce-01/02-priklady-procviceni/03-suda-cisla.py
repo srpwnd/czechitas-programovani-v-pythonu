@@ -1,4 +1,4 @@
-# Napiš kód, který zpracuje seznam čísel 
+# Napiš kód, který zpracuje seznam čísel
 # a vypíše pouze sudá čísla z tohoto seznamu.
 
 numbers = [1, 2, 3, 4]
