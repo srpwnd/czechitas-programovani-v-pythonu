@@ -2,6 +2,7 @@
 
 #     U cenných balíků bude k ceně připočteno pojištění. Přidej ke třídě ValuablePackage metodu delivery_price(). Ta spočítá cenu přepravy s využitím metody mateřské třídy Package, kterou jsme vytvořili v předchozí lekci. K tomu připočte pojistné ve výši 5 % ceny balíku.
 
+
 class Package:
     def __init__(self, address, weight, state):
         self.address = address
@@ -34,15 +35,19 @@ class ValuablePackage(Package):
         self.value = value
 
     def __str__(self):
-        return super().__str__() + f" Má hodnotu {self.value} Kč a pojistné {self._insurance_fee}"
-    
+        return (
+            super().__str__()
+            + f" Má hodnotu {self.value} Kč a pojistné {self._insurance_fee}"
+        )
+
     @property
     def _insurance_fee(self):
         return self.value * 0.05
-    
+
     @property
     def delivery_price(self):
         return super().delivery_price + self._insurance_fee
+
 
 balik_1 = Package("Česká 12, Brno", 25.4, "nedoručen")
 

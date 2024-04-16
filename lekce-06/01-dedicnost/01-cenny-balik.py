@@ -5,6 +5,7 @@
 #     Přidej do výpisu informací o cenném balíku (metoda __str__) informaci o ceně balíku.
 #     Vytvoř si alespoň jeden objekt a zkus volání jeho funkcí. Současně si vytvoř "obyčejný" balík o zkontroluj, že u něj se nic nezměnilo.
 
+
 class Package:
     def __init__(self, address, weight, state):
         self.address = address
@@ -38,6 +39,7 @@ class ValuablePackage(Package):
 
     def __str__(self):
         return super().__str__() + f" Má hodnotu {self.value} Kč"
+
 
 balik_1 = Package("Česká 12, Brno", 25.4, "nedoručen")
 
