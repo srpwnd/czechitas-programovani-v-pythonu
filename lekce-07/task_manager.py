@@ -1,13 +1,15 @@
 import datetime
 
 
-class Task():
+class Task:
     def __init__(self, description):
         self.description = description
         self.timestamp = datetime.datetime.now()
 
+
 tasks = {}
 id_counter = 0
+
 
 def add_task(description):
     global id_counter
@@ -15,15 +17,18 @@ def add_task(description):
     tasks[task_id] = Task(description)
     id_counter += 1
 
+
 def remove_task(task_id):
     if task_id in tasks:
         tasks.pop(task_id)
+
 
 def show_tasks():
     if not tasks:
         print("Nothing to show")
     for id, task in tasks.items():
         print(f"Task {id} created at {task.timestamp}: {task.description}")
+
 
 def main():
     while True:
@@ -38,6 +43,7 @@ def main():
             show_tasks()
         else:
             print("Wrong command")
+
 
 if __name__ == "__main__":
     main()
