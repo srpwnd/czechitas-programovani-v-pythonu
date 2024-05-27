@@ -1,0 +1,2580 @@
+{
+    "pocetCelkem": 55,
+    "ekonomickeSubjekty": [
+        {
+            "ico": "04841956",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 86,
+                "nazevKraje": "Královéhradecký kraj",
+                "kodOkresu": 3602,
+                "nazevOkresu": "Hradec Králové",
+                "kodObce": 570532,
+                "nazevObce": "Osice",
+                "cisloDomovni": 149,
+                "kodCastiObce": 113051,
+                "nazevCastiObce": "Osice",
+                "kodAdresnihoMista": 82040559,
+                "psc": 50326,
+                "textovaAdresa": "č.p. 149, 50326 Osice",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "228",
+            "datumVzniku": "2016-02-24",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "04841956",
+            "adresaDorucovaci": {
+                "radekAdresy1": "č.p. 149",
+                "radekAdresy2": "50326 Osice"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 86,
+                                "nazevKraje": "Královéhradecký kraj",
+                                "kodOkresu": 3602,
+                                "nazevOkresu": "Hradec Králové",
+                                "kodObce": 570532,
+                                "nazevObce": "Osice",
+                                "cisloDomovni": 149,
+                                "kodCastiObce": 113051,
+                                "nazevCastiObce": "Osice",
+                                "kodAdresnihoMista": 82040559,
+                                "psc": 50326,
+                                "textovaAdresa": "č.p. 149, 50326 Osice",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 86,
+                                "nazevKraje": "Královéhradecký kraj",
+                                "kodOkresu": 3602,
+                                "nazevOkresu": "Hradec Králové",
+                                "kodObce": 570532,
+                                "nazevObce": "Osice",
+                                "cisloDomovni": 149,
+                                "kodCastiObce": 113051,
+                                "nazevCastiObce": "Osice",
+                                "kodAdresnihoMista": 82040559,
+                                "psc": 50326,
+                                "textovaAdresa": "č.p. 149, 50326 Osice",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "620",
+                "J"
+            ]
+        },
+        {
+            "ico": "04858395",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 78,
+                "nazevKraje": "Liberecký kraj",
+                "kodOkresu": 3608,
+                "nazevOkresu": "Semily",
+                "kodObce": 577316,
+                "nazevObce": "Mírová pod Kozákovem",
+                "cisloDomovni": 75,
+                "kodCastiObce": 95702,
+                "nazevCastiObce": "Vesec",
+                "kodAdresnihoMista": 15089410,
+                "psc": 51101,
+                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "260",
+            "datumVzniku": "2016-02-29",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "04858395",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Vesec 75",
+                "radekAdresy2": "51101 Mírová pod Kozákovem"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 78,
+                                "nazevKraje": "Liberecký kraj",
+                                "kodOkresu": 3608,
+                                "nazevOkresu": "Semily",
+                                "kodObce": 577316,
+                                "nazevObce": "Mírová pod Kozákovem",
+                                "cisloDomovni": 75,
+                                "kodCastiObce": 95702,
+                                "nazevCastiObce": "Vesec",
+                                "kodAdresnihoMista": 15089410,
+                                "psc": 51101,
+                                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 78,
+                                "nazevKraje": "Liberecký kraj",
+                                "kodOkresu": 3608,
+                                "nazevOkresu": "Semily",
+                                "kodObce": 577316,
+                                "nazevObce": "Mírová pod Kozákovem",
+                                "cisloDomovni": 75,
+                                "kodCastiObce": 95702,
+                                "nazevCastiObce": "Vesec",
+                                "kodAdresnihoMista": 15089410,
+                                "psc": 51101,
+                                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "00",
+                "11010",
+                "56100"
+            ]
+        },
+        {
+            "ico": "07057237",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3710,
+                "nazevOkresu": "Třebíč",
+                "kodObce": 591301,
+                "nazevObce": "Okříšky",
+                "kodUlice": 602809,
+                "nazevUlice": "Pod tratí",
+                "cisloDomovni": 140,
+                "kodCastiObce": 109771,
+                "nazevCastiObce": "Okříšky",
+                "kodAdresnihoMista": 26064863,
+                "psc": 67521,
+                "textovaAdresa": "Pod tratí 140, 67521 Okříšky",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "105",
+            "financniUrad": "330",
+            "datumVzniku": "2018-04-19",
+            "datumAktualizace": "2024-04-07",
+            "icoId": "07057237",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Pod tratí 140",
+                "radekAdresy2": "67521 Okříšky"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "res",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 108,
+                                "nazevKraje": "Kraj Vysočina",
+                                "kodOkresu": 3710,
+                                "nazevOkresu": "Třebíč",
+                                "kodObce": 591301,
+                                "nazevObce": "Okříšky",
+                                "kodUlice": 602809,
+                                "nazevUlice": "Pod tratí",
+                                "cisloDomovni": 140,
+                                "kodCastiObce": 109771,
+                                "nazevCastiObce": "Okříšky",
+                                "kodAdresnihoMista": 26064863,
+                                "psc": 67521,
+                                "textovaAdresa": "Pod tratí 140, 67521 Okříšky",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "105",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 108,
+                                "nazevKraje": "Kraj Vysočina",
+                                "kodOkresu": 3710,
+                                "nazevOkresu": "Třebíč",
+                                "kodObce": 591301,
+                                "nazevObce": "Okříšky",
+                                "kodUlice": 602809,
+                                "nazevUlice": "Pod tratí",
+                                "cisloDomovni": 140,
+                                "kodCastiObce": 109771,
+                                "nazevCastiObce": "Okříšky",
+                                "kodAdresnihoMista": 26064863,
+                                "psc": 67521,
+                                "textovaAdresa": "Pod tratí 140, 67521 Okříšky",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "6622",
+                "7490"
+            ]
+        },
+        {
+            "ico": "11092921",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 78,
+                "nazevKraje": "Liberecký kraj",
+                "kodOkresu": 3608,
+                "nazevOkresu": "Semily",
+                "kodObce": 577316,
+                "nazevObce": "Mírová pod Kozákovem",
+                "cisloDomovni": 75,
+                "kodCastiObce": 95702,
+                "nazevCastiObce": "Vesec",
+                "kodAdresnihoMista": 15089410,
+                "psc": 51101,
+                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "260",
+            "datumVzniku": "1994-06-02",
+            "datumAktualizace": "2023-11-18",
+            "dic": "CZ6708020990",
+            "icoId": "11092921",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Vesec 75",
+                "radekAdresy2": "51101 Mírová pod Kozákovem"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "ZANIKLY",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 78,
+                                "nazevKraje": "Liberecký kraj",
+                                "kodOkresu": 3608,
+                                "nazevOkresu": "Semily",
+                                "kodObce": 577316,
+                                "nazevObce": "Mírová pod Kozákovem",
+                                "cisloDomovni": 75,
+                                "kodCastiObce": 95702,
+                                "nazevCastiObce": "Vesec",
+                                "kodAdresnihoMista": 15089410,
+                                "psc": 51101,
+                                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 78,
+                                "nazevKraje": "Liberecký kraj",
+                                "kodOkresu": 3608,
+                                "nazevOkresu": "Semily",
+                                "kodObce": 577316,
+                                "nazevObce": "Mírová pod Kozákovem",
+                                "cisloDomovni": 75,
+                                "kodCastiObce": 95702,
+                                "nazevCastiObce": "Vesec",
+                                "kodAdresnihoMista": 15089410,
+                                "psc": 51101,
+                                "textovaAdresa": "Vesec 75, 51101 Mírová pod Kozákovem",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "00",
+                "32120"
+            ]
+        },
+        {
+            "ico": "11855452",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 35,
+                "nazevKraje": "Jihočeský kraj",
+                "kodOkresu": 3305,
+                "nazevOkresu": "Písek",
+                "kodObce": 562211,
+                "nazevObce": "Varvažov",
+                "cisloDomovni": 92,
+                "kodCastiObce": 150886,
+                "nazevCastiObce": "Varvažov",
+                "kodAdresnihoMista": 324116,
+                "psc": 39701,
+                "textovaAdresa": "č.p. 92, 39701 Varvažov",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "097",
+            "datumVzniku": "2021-09-16",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "11855452",
+            "adresaDorucovaci": {
+                "radekAdresy1": "č.p. 92",
+                "radekAdresy2": "39701 Varvažov"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 35,
+                                "nazevKraje": "Jihočeský kraj",
+                                "kodOkresu": 3305,
+                                "nazevOkresu": "Písek",
+                                "kodObce": 562211,
+                                "nazevObce": "Varvažov",
+                                "cisloDomovni": 92,
+                                "kodCastiObce": 150886,
+                                "nazevCastiObce": "Varvažov",
+                                "kodAdresnihoMista": 324116,
+                                "psc": 39701,
+                                "textovaAdresa": "č.p. 92, 39701 Varvažov",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 35,
+                                "nazevKraje": "Jihočeský kraj",
+                                "kodOkresu": 3305,
+                                "nazevOkresu": "Písek",
+                                "kodObce": 562211,
+                                "nazevObce": "Varvažov",
+                                "cisloDomovni": 92,
+                                "kodCastiObce": 150886,
+                                "nazevCastiObce": "Varvažov",
+                                "kodAdresnihoMista": 324116,
+                                "psc": 39701,
+                                "textovaAdresa": "č.p. 92, 39701 Varvažov",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "33200",
+                "81290",
+                "952",
+                "95220",
+                "G",
+                "J"
+            ]
+        },
+        {
+            "ico": "11864052",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 124,
+                "nazevKraje": "Olomoucký kraj",
+                "kodOkresu": 3809,
+                "nazevOkresu": "Šumperk",
+                "kodObce": 541265,
+                "nazevObce": "Velké Losiny",
+                "kodUlice": 570117,
+                "nazevUlice": "Rudé armády",
+                "cisloDomovni": 511,
+                "kodCastiObce": 179086,
+                "nazevCastiObce": "Velké Losiny",
+                "kodAdresnihoMista": 8102279,
+                "psc": 78815,
+                "textovaAdresa": "Rudé armády 511, 78815 Velké Losiny",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "398",
+            "datumVzniku": "2021-09-21",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "11864052",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Rudé armády 511",
+                "radekAdresy2": "78815 Velké Losiny"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 124,
+                                "nazevKraje": "Olomoucký kraj",
+                                "kodOkresu": 3809,
+                                "nazevOkresu": "Šumperk",
+                                "kodObce": 541265,
+                                "nazevObce": "Velké Losiny",
+                                "kodUlice": 570117,
+                                "nazevUlice": "Rudé armády",
+                                "cisloDomovni": 511,
+                                "kodCastiObce": 179086,
+                                "nazevCastiObce": "Velké Losiny",
+                                "kodAdresnihoMista": 8102279,
+                                "psc": 78815,
+                                "textovaAdresa": "Rudé armády 511, 78815 Velké Losiny",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 124,
+                                "nazevKraje": "Olomoucký kraj",
+                                "kodOkresu": 3809,
+                                "nazevOkresu": "Šumperk",
+                                "kodObce": 541265,
+                                "nazevObce": "Velké Losiny",
+                                "kodUlice": 570117,
+                                "nazevUlice": "Rudé armády",
+                                "cisloDomovni": 511,
+                                "kodCastiObce": 179086,
+                                "nazevCastiObce": "Velké Losiny",
+                                "kodAdresnihoMista": 8102279,
+                                "psc": 78815,
+                                "textovaAdresa": "Rudé armády 511, 78815 Velké Losiny",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "25",
+                "256",
+                "43120",
+                "81290"
+            ]
+        },
+        {
+            "ico": "12242691",
+            "obchodniJmeno": "Pavel JEŽEK",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 27,
+                "nazevKraje": "Středočeský kraj",
+                "kodOkresu": 3202,
+                "nazevOkresu": "Beroun",
+                "kodObce": 531057,
+                "nazevObce": "Beroun",
+                "kodUlice": 9041,
+                "nazevUlice": "Vít. Hálka",
+                "cisloDomovni": 932,
+                "kodCastiObce": 401901,
+                "cisloOrientacni": 25,
+                "nazevCastiObce": "Beroun-Město",
+                "kodAdresnihoMista": 5934991,
+                "psc": 26601,
+                "textovaAdresa": "Vít. Hálka 932/25, Beroun-Město, 26601 Beroun",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "026",
+            "datumVzniku": "1992-11-30",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "12242691",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Vít. Hálka 932/25",
+                "radekAdresy2": "Beroun-Město",
+                "radekAdresy3": "26601 Beroun"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel JEŽEK",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3202,
+                                "nazevOkresu": "Beroun",
+                                "kodObce": 531057,
+                                "nazevObce": "Beroun",
+                                "kodUlice": 9041,
+                                "nazevUlice": "Vít. Hálka",
+                                "cisloDomovni": 932,
+                                "kodCastiObce": 401901,
+                                "cisloOrientacni": 25,
+                                "nazevCastiObce": "Beroun-Město",
+                                "kodAdresnihoMista": 5934991,
+                                "psc": 26601,
+                                "textovaAdresa": "Vít. Hálka 932/25, Beroun-Město, 26601 Beroun",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel JEŽEK",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3202,
+                                "nazevOkresu": "Beroun",
+                                "kodObce": 531057,
+                                "nazevObce": "Beroun",
+                                "kodUlice": 9041,
+                                "nazevUlice": "Vít. Hálka",
+                                "cisloDomovni": 932,
+                                "kodCastiObce": 401901,
+                                "cisloOrientacni": 25,
+                                "nazevCastiObce": "Beroun-Město",
+                                "kodAdresnihoMista": 5934991,
+                                "psc": 26601,
+                                "textovaAdresa": "Vít. Hálka 932/25, Beroun-Město, 26601 Beroun",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "16230"
+            ]
+        },
+        {
+            "ico": "12372137",
+            "obchodniJmeno": "Ing. Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 27,
+                "nazevKraje": "Středočeský kraj",
+                "kodOkresu": 3206,
+                "nazevOkresu": "Mělník",
+                "kodObce": 534951,
+                "nazevObce": "Kralupy nad Vltavou",
+                "kodUlice": 278866,
+                "nazevUlice": "Na Hrádku",
+                "cisloDomovni": 100,
+                "kodCastiObce": 402419,
+                "nazevCastiObce": "Kralupy nad Vltavou",
+                "kodAdresnihoMista": 25603990,
+                "psc": 27801,
+                "textovaAdresa": "Na Hrádku 100, 27801 Kralupy nad Vltavou",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "044",
+            "datumVzniku": "1992-12-03",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "12372137",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Na Hrádku 100",
+                "radekAdresy2": "27801 Kralupy nad Vltavou"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Ing. Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3206,
+                                "nazevOkresu": "Mělník",
+                                "kodObce": 534951,
+                                "nazevObce": "Kralupy nad Vltavou",
+                                "kodUlice": 278866,
+                                "nazevUlice": "Na Hrádku",
+                                "cisloDomovni": 100,
+                                "kodCastiObce": 402419,
+                                "nazevCastiObce": "Kralupy nad Vltavou",
+                                "kodAdresnihoMista": 25603990,
+                                "psc": 27801,
+                                "textovaAdresa": "Na Hrádku 100, 27801 Kralupy nad Vltavou",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Ing. Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3206,
+                                "nazevOkresu": "Mělník",
+                                "kodObce": 534951,
+                                "nazevObce": "Kralupy nad Vltavou",
+                                "kodUlice": 278866,
+                                "nazevUlice": "Na Hrádku",
+                                "cisloDomovni": 100,
+                                "kodCastiObce": 402419,
+                                "nazevCastiObce": "Kralupy nad Vltavou",
+                                "kodAdresnihoMista": 25603990,
+                                "psc": 27801,
+                                "textovaAdresa": "Na Hrádku 100, 27801 Kralupy nad Vltavou",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "00"
+            ]
+        },
+        {
+            "ico": "13239767",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 132,
+                "nazevKraje": "Moravskoslezský kraj",
+                "kodOkresu": 3807,
+                "nazevOkresu": "Ostrava-město",
+                "kodObce": 554821,
+                "nazevObce": "Ostrava",
+                "kodMestskeCastiObvodu": 546224,
+                "kodUlice": 364185,
+                "nazevMestskeCastiObvodu": "Poruba",
+                "nazevUlice": "Sokolovská",
+                "cisloDomovni": 1177,
+                "kodCastiObce": 414085,
+                "cisloOrientacni": 14,
+                "nazevCastiObce": "Poruba",
+                "kodAdresnihoMista": 3295125,
+                "psc": 70800,
+                "textovaAdresa": "Sokolovská 1177/14, Poruba, 70800 Ostrava",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "390",
+            "datumVzniku": "2008-06-17",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "13239767",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Sokolovská 1177/14",
+                "radekAdresy2": "Poruba",
+                "radekAdresy3": "70800 Ostrava"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 132,
+                                "nazevKraje": "Moravskoslezský kraj",
+                                "kodOkresu": 3807,
+                                "nazevOkresu": "Ostrava-město",
+                                "kodObce": 554821,
+                                "nazevObce": "Ostrava",
+                                "kodMestskeCastiObvodu": 546224,
+                                "kodUlice": 364185,
+                                "nazevMestskeCastiObvodu": "Poruba",
+                                "nazevUlice": "Sokolovská",
+                                "cisloDomovni": 1177,
+                                "kodCastiObce": 414085,
+                                "cisloOrientacni": 14,
+                                "nazevCastiObce": "Poruba",
+                                "kodAdresnihoMista": 3295125,
+                                "psc": 70800,
+                                "textovaAdresa": "Sokolovská 1177/14, Poruba, 70800 Ostrava",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 132,
+                                "nazevKraje": "Moravskoslezský kraj",
+                                "kodOkresu": 3807,
+                                "nazevOkresu": "Ostrava-město",
+                                "kodObce": 554821,
+                                "nazevObce": "Ostrava",
+                                "kodMestskeCastiObvodu": 546224,
+                                "kodUlice": 364185,
+                                "nazevMestskeCastiObvodu": "Poruba",
+                                "nazevUlice": "Sokolovská",
+                                "cisloDomovni": 1177,
+                                "kodCastiObce": 414085,
+                                "cisloOrientacni": 14,
+                                "nazevCastiObce": "Poruba",
+                                "kodAdresnihoMista": 3295125,
+                                "psc": 70800,
+                                "textovaAdresa": "Sokolovská 1177/14, Poruba, 70800 Ostrava",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "43120"
+            ]
+        },
+        {
+            "ico": "13579606",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 86,
+                "nazevKraje": "Královéhradecký kraj",
+                "kodOkresu": 3605,
+                "nazevOkresu": "Náchod",
+                "kodObce": 573965,
+                "nazevObce": "Červený Kostelec",
+                "kodUlice": 300039,
+                "nazevUlice": "Husova",
+                "cisloDomovni": 561,
+                "kodCastiObce": 21105,
+                "nazevCastiObce": "Červený Kostelec",
+                "kodAdresnihoMista": 9664998,
+                "psc": 54941,
+                "textovaAdresa": "Husova 561, 54941 Červený Kostelec",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "243",
+            "datumVzniku": "1993-08-05",
+            "datumAktualizace": "2023-08-10",
+            "dic": "CZ500414010",
+            "icoId": "13579606",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Husova 561",
+                "radekAdresy2": "54941 Červený Kostelec"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "ZANIKLY",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 86,
+                                "nazevKraje": "Královéhradecký kraj",
+                                "kodOkresu": 3605,
+                                "nazevOkresu": "Náchod",
+                                "kodObce": 573965,
+                                "nazevObce": "Červený Kostelec",
+                                "kodUlice": 300039,
+                                "nazevUlice": "Husova",
+                                "cisloDomovni": 561,
+                                "kodCastiObce": 21105,
+                                "nazevCastiObce": "Červený Kostelec",
+                                "kodAdresnihoMista": 9664998,
+                                "psc": 54941,
+                                "textovaAdresa": "Husova 561, 54941 Červený Kostelec",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 86,
+                                "nazevKraje": "Královéhradecký kraj",
+                                "kodOkresu": 3605,
+                                "nazevOkresu": "Náchod",
+                                "kodObce": 573965,
+                                "nazevObce": "Červený Kostelec",
+                                "kodUlice": 300039,
+                                "nazevUlice": "Husova",
+                                "cisloDomovni": 561,
+                                "kodCastiObce": 21105,
+                                "nazevCastiObce": "Červený Kostelec",
+                                "kodAdresnihoMista": 9664998,
+                                "psc": 54941,
+                                "textovaAdresa": "Husova 561, 54941 Červený Kostelec",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "43220"
+            ]
+        },
+        {
+            "ico": "14315866",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 116,
+                "nazevKraje": "Jihomoravský kraj",
+                "kodOkresu": 3702,
+                "nazevOkresu": "Brno-město",
+                "kodObce": 582786,
+                "nazevObce": "Brno",
+                "kodMestskeCastiObvodu": 551244,
+                "kodUlice": 35858,
+                "nazevMestskeCastiObvodu": "Brno-Řečkovice a Mokrá Hora",
+                "nazevUlice": "Žitná",
+                "cisloDomovni": 1476,
+                "kodCastiObce": 411876,
+                "cisloOrientacni": 21,
+                "nazevCastiObce": "Řečkovice",
+                "kodAdresnihoMista": 19508123,
+                "psc": 62100,
+                "textovaAdresa": "Žitná 1476/21, Řečkovice, 62100 Brno",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "290",
+            "datumVzniku": "2022-03-03",
+            "datumAktualizace": "2024-01-09",
+            "icoId": "14315866",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Žitná 1476/21",
+                "radekAdresy2": "Řečkovice",
+                "radekAdresy3": "62100 Brno"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 116,
+                                "nazevKraje": "Jihomoravský kraj",
+                                "kodOkresu": 3702,
+                                "nazevOkresu": "Brno-město",
+                                "kodObce": 582786,
+                                "nazevObce": "Brno",
+                                "kodMestskeCastiObvodu": 551244,
+                                "kodUlice": 35858,
+                                "nazevMestskeCastiObvodu": "Brno-Řečkovice a Mokrá Hora",
+                                "nazevUlice": "Žitná",
+                                "cisloDomovni": 1476,
+                                "kodCastiObce": 411876,
+                                "cisloOrientacni": 21,
+                                "nazevCastiObce": "Řečkovice",
+                                "kodAdresnihoMista": 19508123,
+                                "psc": 62100,
+                                "textovaAdresa": "Žitná 1476/21, Řečkovice, 62100 Brno",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 116,
+                                "nazevKraje": "Jihomoravský kraj",
+                                "kodOkresu": 3702,
+                                "nazevOkresu": "Brno-město",
+                                "kodObce": 582786,
+                                "nazevObce": "Brno",
+                                "kodMestskeCastiObvodu": 551244,
+                                "kodUlice": 35858,
+                                "nazevMestskeCastiObvodu": "Brno-Řečkovice a Mokrá Hora",
+                                "nazevUlice": "Žitná",
+                                "cisloDomovni": 1476,
+                                "kodCastiObce": 411876,
+                                "cisloOrientacni": 21,
+                                "nazevCastiObce": "Řečkovice",
+                                "kodAdresnihoMista": 19508123,
+                                "psc": 62100,
+                                "textovaAdresa": "Žitná 1476/21, Řečkovice, 62100 Brno",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "62020"
+            ]
+        },
+        {
+            "ico": "14950341",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 19,
+                "nazevKraje": "Hlavní město Praha",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 43,
+                "nazevSpravnihoObvodu": "Praha 4",
+                "kodMestskehoObvodu": 43,
+                "nazevMestskehoObvodu": "Praha 4",
+                "kodMestskeCastiObvodu": 547034,
+                "kodUlice": 468037,
+                "nazevMestskeCastiObvodu": "Praha 11",
+                "nazevUlice": "Starochodovská",
+                "cisloDomovni": 988,
+                "kodCastiObce": 400211,
+                "cisloOrientacni": 35,
+                "nazevCastiObce": "Chodov",
+                "kodAdresnihoMista": 21836868,
+                "psc": 14900,
+                "textovaAdresa": "Starochodovská 988/35, Chodov, 14900 Praha 4",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "011",
+            "datumVzniku": "1992-09-29",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "14950341",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Starochodovská 988/35",
+                "radekAdresy2": "Chodov",
+                "radekAdresy3": "14900 Praha 4"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodObce": 554782,
+                                "nazevObce": "Praha",
+                                "kodSpravnihoObvodu": 116,
+                                "nazevSpravnihoObvodu": "Praha 11",
+                                "kodMestskehoObvodu": 43,
+                                "nazevMestskehoObvodu": "Praha 4",
+                                "kodMestskeCastiObvodu": 547034,
+                                "kodUlice": 468037,
+                                "nazevMestskeCastiObvodu": "Praha 11",
+                                "nazevUlice": "Starochodovská",
+                                "cisloDomovni": 988,
+                                "kodCastiObce": 400211,
+                                "cisloOrientacni": 35,
+                                "nazevCastiObce": "Chodov",
+                                "kodAdresnihoMista": 21836868,
+                                "psc": 14900,
+                                "textovaAdresa": "Starochodovská 988/35, Chodov, 14900 Praha 4",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 19,
+                                "nazevKraje": "Hlavní město Praha",
+                                "kodObce": 554782,
+                                "nazevObce": "Praha",
+                                "kodSpravnihoObvodu": 43,
+                                "nazevSpravnihoObvodu": "Praha 4",
+                                "kodMestskehoObvodu": 43,
+                                "nazevMestskehoObvodu": "Praha 4",
+                                "kodMestskeCastiObvodu": 547034,
+                                "kodUlice": 468037,
+                                "nazevMestskeCastiObvodu": "Praha 11",
+                                "nazevUlice": "Starochodovská",
+                                "cisloDomovni": 988,
+                                "kodCastiObce": 400211,
+                                "cisloOrientacni": 35,
+                                "nazevCastiObce": "Chodov",
+                                "kodAdresnihoMista": 21836868,
+                                "psc": 14900,
+                                "textovaAdresa": "Starochodovská 988/35, Chodov, 14900 Praha 4",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "25720",
+                "33200",
+                "38",
+                "46189",
+                "471",
+                "69200",
+                "711"
+            ]
+        },
+        {
+            "ico": "15330206",
+            "obchodniJmeno": "Ing. Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 27,
+                "nazevKraje": "Středočeský kraj",
+                "kodOkresu": 3208,
+                "nazevOkresu": "Nymburk",
+                "kodObce": 537004,
+                "nazevObce": "Nymburk",
+                "kodUlice": 319295,
+                "nazevUlice": "Jasmínová",
+                "cisloDomovni": 2136,
+                "kodCastiObce": 402907,
+                "nazevCastiObce": "Nymburk",
+                "kodAdresnihoMista": 1232347,
+                "psc": 28802,
+                "textovaAdresa": "Jasmínová 2136, 28802 Nymburk",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "053",
+            "datumVzniku": "1992-12-14",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "15330206",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Jasmínová 2136",
+                "radekAdresy2": "28802 Nymburk"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Ing. Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3208,
+                                "nazevOkresu": "Nymburk",
+                                "kodObce": 537004,
+                                "nazevObce": "Nymburk",
+                                "kodUlice": 319295,
+                                "nazevUlice": "Jasmínová",
+                                "cisloDomovni": 2136,
+                                "kodCastiObce": 402907,
+                                "nazevCastiObce": "Nymburk",
+                                "kodAdresnihoMista": 1232347,
+                                "psc": 28802,
+                                "textovaAdresa": "Jasmínová 2136, 28802 Nymburk",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Ing. Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3208,
+                                "nazevOkresu": "Nymburk",
+                                "kodObce": 537004,
+                                "nazevObce": "Nymburk",
+                                "kodUlice": 319295,
+                                "nazevUlice": "Jasmínová",
+                                "cisloDomovni": 2136,
+                                "kodCastiObce": 402907,
+                                "nazevCastiObce": "Nymburk",
+                                "kodAdresnihoMista": 1232347,
+                                "psc": 28802,
+                                "textovaAdresa": "Jasmínová 2136, 28802 Nymburk",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "960"
+            ]
+        },
+        {
+            "ico": "16055667",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 19,
+                "nazevKraje": "Hlavní město Praha",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 108,
+                "nazevSpravnihoObvodu": "Praha 10",
+                "kodMestskehoObvodu": 108,
+                "nazevMestskehoObvodu": "Praha 10",
+                "kodMestskeCastiObvodu": 547387,
+                "kodUlice": 755575,
+                "nazevMestskeCastiObvodu": "Praha 15",
+                "nazevUlice": "Padovská",
+                "cisloDomovni": 585,
+                "kodCastiObce": 400904,
+                "cisloOrientacni": 18,
+                "nazevCastiObce": "Horní Měcholupy",
+                "kodAdresnihoMista": 26244608,
+                "psc": 10900,
+                "textovaAdresa": "Padovská 585/18, Horní Měcholupy, 10900 Praha 10",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "010",
+            "datumVzniku": "1992-09-23",
+            "datumAktualizace": "2023-12-01",
+            "dic": "CZ6808141351",
+            "icoId": "16055667",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Padovská 585/18",
+                "radekAdresy2": "Horní Měcholupy",
+                "radekAdresy3": "10900 Praha 10"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "AKTIVNI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodObce": 554782,
+                                "nazevObce": "Praha",
+                                "kodSpravnihoObvodu": 159,
+                                "nazevSpravnihoObvodu": "Praha 15",
+                                "kodMestskehoObvodu": 108,
+                                "nazevMestskehoObvodu": "Praha 10",
+                                "kodMestskeCastiObvodu": 547387,
+                                "kodUlice": 755575,
+                                "nazevMestskeCastiObvodu": "Praha 15",
+                                "nazevUlice": "Padovská",
+                                "cisloDomovni": 585,
+                                "kodCastiObce": 400904,
+                                "cisloOrientacni": 18,
+                                "nazevCastiObce": "Horní Měcholupy",
+                                "kodAdresnihoMista": 26244608,
+                                "psc": 10900,
+                                "textovaAdresa": "Padovská 585/18, Horní Měcholupy, 10900 Praha 10",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 19,
+                                "nazevKraje": "Hlavní město Praha",
+                                "kodObce": 554782,
+                                "nazevObce": "Praha",
+                                "kodSpravnihoObvodu": 108,
+                                "nazevSpravnihoObvodu": "Praha 10",
+                                "kodMestskehoObvodu": 108,
+                                "nazevMestskehoObvodu": "Praha 10",
+                                "kodMestskeCastiObvodu": 547387,
+                                "kodUlice": 755575,
+                                "nazevMestskeCastiObvodu": "Praha 15",
+                                "nazevUlice": "Padovská",
+                                "cisloDomovni": 585,
+                                "kodCastiObce": 400904,
+                                "cisloOrientacni": 18,
+                                "nazevCastiObce": "Horní Měcholupy",
+                                "kodAdresnihoMista": 26244608,
+                                "psc": 10900,
+                                "textovaAdresa": "Padovská 585/18, Horní Měcholupy, 10900 Praha 10",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "00",
+                "620",
+                "7490"
+            ]
+        },
+        {
+            "ico": "17628318",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569640,
+                "nazevObce": "Uhelná Příbram",
+                "cisloDomovni": 31,
+                "kodCastiObce": 172758,
+                "nazevCastiObce": "Pukšice",
+                "kodAdresnihoMista": 9558349,
+                "psc": 58282,
+                "textovaAdresa": "Pukšice 31, 58282 Uhelná Příbram",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "223",
+            "datumVzniku": "2022-10-10",
+            "datumAktualizace": "2023-12-15",
+            "icoId": "17628318",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Pukšice 31",
+                "radekAdresy2": "58282 Uhelná Příbram"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 108,
+                                "nazevKraje": "Kraj Vysočina",
+                                "kodOkresu": 3601,
+                                "nazevOkresu": "Havlíčkův Brod",
+                                "kodObce": 569640,
+                                "nazevObce": "Uhelná Příbram",
+                                "cisloDomovni": 31,
+                                "kodCastiObce": 172758,
+                                "nazevCastiObce": "Pukšice",
+                                "kodAdresnihoMista": 9558349,
+                                "psc": 58282,
+                                "textovaAdresa": "Pukšice 31, 58282 Uhelná Příbram",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 108,
+                                "nazevKraje": "Kraj Vysočina",
+                                "kodOkresu": 3601,
+                                "nazevOkresu": "Havlíčkův Brod",
+                                "kodObce": 569640,
+                                "nazevObce": "Uhelná Příbram",
+                                "cisloDomovni": 31,
+                                "kodCastiObce": 172758,
+                                "nazevCastiObce": "Pukšice",
+                                "kodAdresnihoMista": 9558349,
+                                "psc": 58282,
+                                "textovaAdresa": "Pukšice 31, 58282 Uhelná Příbram",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "43120"
+            ]
+        },
+        {
+            "ico": "18917763",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 27,
+                "nazevKraje": "Středočeský kraj",
+                "kodOkresu": 3208,
+                "nazevOkresu": "Nymburk",
+                "kodObce": 537004,
+                "nazevObce": "Nymburk",
+                "kodUlice": 319414,
+                "nazevUlice": "Hrnčířova",
+                "cisloDomovni": 1926,
+                "kodCastiObce": 402907,
+                "nazevCastiObce": "Nymburk",
+                "kodAdresnihoMista": 1230425,
+                "psc": 28802,
+                "textovaAdresa": "Hrnčířova 1926, 28802 Nymburk",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "053",
+            "datumVzniku": "1995-01-23",
+            "datumAktualizace": "2023-08-09",
+            "icoId": "18917763",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Hrnčířova 1926",
+                "radekAdresy2": "28802 Nymburk"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3208,
+                                "nazevOkresu": "Nymburk",
+                                "kodObce": 537004,
+                                "nazevObce": "Nymburk",
+                                "kodUlice": 319414,
+                                "nazevUlice": "Hrnčířova",
+                                "cisloDomovni": 1926,
+                                "kodCastiObce": 402907,
+                                "nazevCastiObce": "Nymburk",
+                                "kodAdresnihoMista": 1230425,
+                                "psc": 28802,
+                                "textovaAdresa": "Hrnčířova 1926, 28802 Nymburk",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3208,
+                                "nazevOkresu": "Nymburk",
+                                "kodObce": 537004,
+                                "nazevObce": "Nymburk",
+                                "kodUlice": 319414,
+                                "nazevUlice": "Hrnčířova",
+                                "cisloDomovni": 1926,
+                                "kodCastiObce": 402907,
+                                "nazevCastiObce": "Nymburk",
+                                "kodAdresnihoMista": 1230425,
+                                "psc": 28802,
+                                "textovaAdresa": "Hrnčířova 1926, 28802 Nymburk",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "471"
+            ]
+        },
+        {
+            "ico": "19567472",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 27,
+                "nazevKraje": "Středočeský kraj",
+                "kodOkresu": 3205,
+                "nazevOkresu": "Kutná Hora",
+                "kodObce": 533955,
+                "nazevObce": "Kutná Hora",
+                "kodUlice": 2811910,
+                "nazevUlice": "Staročeská",
+                "cisloDomovni": 275,
+                "kodCastiObce": 78018,
+                "nazevCastiObce": "Kaňk",
+                "kodAdresnihoMista": 11444614,
+                "psc": 28404,
+                "textovaAdresa": "Staročeská 275, Kaňk, 28404 Kutná Hora",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "038",
+            "datumVzniku": "2023-07-27",
+            "datumAktualizace": "2024-01-09",
+            "icoId": "19567472",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Staročeská 275",
+                "radekAdresy2": "Kaňk",
+                "radekAdresy3": "28404 Kutná Hora"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3205,
+                                "nazevOkresu": "Kutná Hora",
+                                "kodObce": 533955,
+                                "nazevObce": "Kutná Hora",
+                                "kodUlice": 2811910,
+                                "nazevUlice": "Staročeská",
+                                "cisloDomovni": 275,
+                                "kodCastiObce": 78018,
+                                "nazevCastiObce": "Kaňk",
+                                "kodAdresnihoMista": 11444614,
+                                "psc": 28404,
+                                "textovaAdresa": "Staročeská 275, Kaňk, 28404 Kutná Hora",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 27,
+                                "nazevKraje": "Středočeský kraj",
+                                "kodOkresu": 3205,
+                                "nazevOkresu": "Kutná Hora",
+                                "kodObce": 533955,
+                                "nazevObce": "Kutná Hora",
+                                "kodUlice": 2811910,
+                                "nazevUlice": "Staročeská",
+                                "cisloDomovni": 275,
+                                "kodCastiObce": 78018,
+                                "nazevCastiObce": "Kaňk",
+                                "kodAdresnihoMista": 11444614,
+                                "psc": 28404,
+                                "textovaAdresa": "Staročeská 275, Kaňk, 28404 Kutná Hora",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "45200",
+                "43120",
+                "331"
+            ]
+        },
+        {
+            "ico": "19937946",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 60,
+                "nazevKraje": "Ústecký kraj",
+                "kodOkresu": 3509,
+                "nazevOkresu": "Teplice",
+                "kodObce": 567442,
+                "nazevObce": "Teplice",
+                "kodUlice": 591653,
+                "nazevUlice": "U nádraží",
+                "cisloDomovni": 906,
+                "kodCastiObce": 409243,
+                "cisloOrientacni": 16,
+                "nazevCastiObce": "Teplice",
+                "kodAdresnihoMista": 20257074,
+                "psc": 41501,
+                "textovaAdresa": "U nádraží 906/16, 41501 Teplice",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "101",
+            "financniUrad": "210",
+            "datumVzniku": "2023-11-20",
+            "datumAktualizace": "2023-12-21",
+            "icoId": "19937946",
+            "adresaDorucovaci": {
+                "radekAdresy1": "U nádraží 906/16",
+                "radekAdresy2": "41501 Teplice"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "NEEXISTUJICI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "rzp",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 60,
+                                "nazevKraje": "Ústecký kraj",
+                                "kodOkresu": 3509,
+                                "nazevOkresu": "Teplice",
+                                "kodObce": 567442,
+                                "nazevObce": "Teplice",
+                                "kodUlice": 591653,
+                                "nazevUlice": "U nádraží",
+                                "cisloDomovni": 906,
+                                "kodCastiObce": 409243,
+                                "cisloOrientacni": 16,
+                                "nazevCastiObce": "Teplice",
+                                "kodAdresnihoMista": 20257074,
+                                "psc": 41501,
+                                "textovaAdresa": "U nádraží 906/16, 41501 Teplice",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 60,
+                                "nazevKraje": "Ústecký kraj",
+                                "kodOkresu": 3509,
+                                "nazevOkresu": "Teplice",
+                                "kodObce": 567442,
+                                "nazevObce": "Teplice",
+                                "kodUlice": 591653,
+                                "nazevUlice": "U nádraží",
+                                "cisloDomovni": 906,
+                                "kodCastiObce": 409243,
+                                "cisloOrientacni": 16,
+                                "nazevCastiObce": "Teplice",
+                                "kodAdresnihoMista": 20257074,
+                                "psc": 41501,
+                                "textovaAdresa": "U nádraží 906/16, 41501 Teplice",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                }
+            ],
+            "czNace": [
+                "81290",
+                "43120"
+            ]
+        },
+        {
+            "ico": "41649826",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 43,
+                "nazevKraje": "Plzeňský kraj",
+                "kodOkresu": 3405,
+                "nazevOkresu": "Plzeň-město",
+                "kodObce": 554791,
+                "nazevObce": "Plzeň",
+                "kodMestskeCastiObvodu": 546208,
+                "kodUlice": 397911,
+                "nazevMestskeCastiObvodu": "Plzeň 4",
+                "nazevUlice": "Smrková",
+                "cisloDomovni": 977,
+                "kodCastiObce": 122670,
+                "cisloOrientacni": 40,
+                "nazevCastiObce": "Doubravka",
+                "kodAdresnihoMista": 24466883,
+                "psc": 31200,
+                "textovaAdresa": "Smrková 977/40, Doubravka, 31200 Plzeň",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "107",
+            "financniUrad": "138",
+            "datumVzniku": "1993-12-01",
+            "datumAktualizace": "2024-02-09",
+            "icoId": "41649826",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Smrková 977/40",
+                "radekAdresy2": "Doubravka",
+                "radekAdresy3": "31200 Plzeň"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "NEEXISTUJICI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "AKTIVNI",
+                "stavZdrojeDph": "NEEXISTUJICI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "NEEXISTUJICI"
+            },
+            "primarniZdroj": "res",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 43,
+                                "nazevKraje": "Plzeňský kraj",
+                                "kodOkresu": 3405,
+                                "nazevOkresu": "Plzeň-město",
+                                "kodObce": 554791,
+                                "nazevObce": "Plzeň",
+                                "kodMestskeCastiObvodu": 546208,
+                                "kodUlice": 397911,
+                                "nazevMestskeCastiObvodu": "Plzeň 4",
+                                "nazevUlice": "Smrková",
+                                "cisloDomovni": 977,
+                                "kodCastiObce": 122670,
+                                "cisloOrientacni": 40,
+                                "nazevCastiObce": "Doubravka",
+                                "kodAdresnihoMista": 24466883,
+                                "psc": 31200,
+                                "textovaAdresa": "Smrková 977/40, Doubravka, 31200 Plzeň",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "107",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 43,
+                                "nazevKraje": "Plzeňský kraj",
+                                "kodOkresu": 3405,
+                                "nazevOkresu": "Plzeň-město",
+                                "kodObce": 554791,
+                                "nazevObce": "Plzeň",
+                                "kodMestskeCastiObvodu": 546208,
+                                "kodUlice": 397911,
+                                "nazevMestskeCastiObvodu": "Plzeň 4",
+                                "nazevUlice": "Smrková",
+                                "cisloDomovni": 977,
+                                "kodCastiObce": 122670,
+                                "cisloOrientacni": 40,
+                                "nazevCastiObce": "Doubravka",
+                                "kodAdresnihoMista": 24466883,
+                                "psc": 31200,
+                                "textovaAdresa": "Smrková 977/40, Doubravka, 31200 Plzeň",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "100",
+                    "datovyZdroj": "szr"
+                }
+            ],
+            "czNace": [
+                "02"
+            ],
+            "subRegistrSzr": "ezp"
+        },
+        {
+            "ico": "46684328",
+            "obchodniJmeno": "Pavel Ježek",
+            "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 35,
+                "nazevKraje": "Jihočeský kraj",
+                "kodOkresu": 3307,
+                "nazevOkresu": "Strakonice",
+                "kodObce": 550850,
+                "nazevObce": "Blatná",
+                "cisloDomovni": 2,
+                "kodCastiObce": 19071,
+                "nazevCastiObce": "Milčice",
+                "kodAdresnihoMista": 24971634,
+                "psc": 38801,
+                "textovaAdresa": "Milčice 2, 38801 Blatná",
+                "typCisloDomovni": "1",
+                "standardizaceAdresy": true
+            },
+            "pravniForma": "107",
+            "financniUrad": "105",
+            "datumVzniku": "1992-02-19",
+            "datumAktualizace": "2024-02-22",
+            "dic": "CZ6107250710",
+            "icoId": "46684328",
+            "adresaDorucovaci": {
+                "radekAdresy1": "Milčice 2",
+                "radekAdresy2": "38801 Blatná"
+            },
+            "seznamRegistraci": {
+                "stavZdrojeVr": "NEEXISTUJICI",
+                "stavZdrojeRes": "AKTIVNI",
+                "stavZdrojeRzp": "AKTIVNI",
+                "stavZdrojeNrpzs": "NEEXISTUJICI",
+                "stavZdrojeRpsh": "NEEXISTUJICI",
+                "stavZdrojeRcns": "NEEXISTUJICI",
+                "stavZdrojeSzr": "AKTIVNI",
+                "stavZdrojeDph": "AKTIVNI",
+                "stavZdrojeSd": "NEEXISTUJICI",
+                "stavZdrojeIr": "NEEXISTUJICI",
+                "stavZdrojeCeu": "NEEXISTUJICI",
+                "stavZdrojeRs": "NEEXISTUJICI",
+                "stavZdrojeRed": "AKTIVNI"
+            },
+            "primarniZdroj": "res",
+            "dalsiUdaje": [
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 35,
+                                "nazevKraje": "Jihočeský kraj",
+                                "kodOkresu": 3307,
+                                "nazevOkresu": "Strakonice",
+                                "kodObce": 550850,
+                                "nazevObce": "Blatná",
+                                "cisloDomovni": 2,
+                                "kodCastiObce": 19071,
+                                "nazevCastiObce": "Milčice",
+                                "kodAdresnihoMista": 24971634,
+                                "psc": 38801,
+                                "textovaAdresa": "Milčice 2, 38801 Blatná",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "107",
+                    "datovyZdroj": "res"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 35,
+                                "nazevKraje": "Jihočeský kraj",
+                                "kodOkresu": 3307,
+                                "nazevOkresu": "Strakonice",
+                                "kodObce": 550850,
+                                "nazevObce": "Blatná",
+                                "cisloDomovni": 2,
+                                "kodCastiObce": 19071,
+                                "nazevCastiObce": "Milčice",
+                                "kodAdresnihoMista": 24971634,
+                                "psc": 38801,
+                                "textovaAdresa": "Milčice 2, 38801 Blatná",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "101",
+                    "datovyZdroj": "rzp"
+                },
+                {
+                    "obchodniJmeno": [
+                        {
+                            "obchodniJmeno": "Pavel Ježek",
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "sidlo": [
+                        {
+                            "sidlo": {
+                                "kodStatu": "CZ",
+                                "nazevStatu": "Česká republika",
+                                "kodKraje": 35,
+                                "nazevKraje": "Jihočeský kraj",
+                                "kodOkresu": 3307,
+                                "nazevOkresu": "Strakonice",
+                                "kodObce": 550850,
+                                "nazevObce": "Blatná",
+                                "cisloDomovni": 2,
+                                "kodCastiObce": 19071,
+                                "nazevCastiObce": "Milčice",
+                                "kodAdresnihoMista": 24971634,
+                                "psc": 38801,
+                                "textovaAdresa": "Milčice 2, 38801 Blatná",
+                                "typCisloDomovni": "1",
+                                "standardizaceAdresy": true
+                            },
+                            "primarniZaznam": true
+                        }
+                    ],
+                    "pravniForma": "100",
+                    "datovyZdroj": "szr"
+                }
+            ],
+            "czNace": [
+                "01420",
+                "03220",
+                "G"
+            ],
+            "subRegistrSzr": "ezp"
+        }
+    ]
+}

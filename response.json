@@ -1,0 +1,56 @@
+{
+    "ico": "14315866",
+    "obchodniJmeno": "Pavel Ježek",
+    "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 116,
+        "nazevKraje": "Jihomoravský kraj",
+        "kodOkresu": 3702,
+        "nazevOkresu": "Brno-město",
+        "kodObce": 582786,
+        "nazevObce": "Brno",
+        "kodMestskeCastiObvodu": 551244,
+        "kodUlice": 35858,
+        "nazevMestskeCastiObvodu": "Brno-Řečkovice a Mokrá Hora",
+        "nazevUlice": "Žitná",
+        "cisloDomovni": 1476,
+        "kodCastiObce": 411876,
+        "cisloOrientacni": 21,
+        "nazevCastiObce": "Řečkovice",
+        "kodAdresnihoMista": 19508123,
+        "psc": 62100,
+        "textovaAdresa": "Žitná 1476/21, Řečkovice, 62100 Brno",
+        "typCisloDomovni": "1",
+        "standardizaceAdresy": true
+    },
+    "pravniForma": "101",
+    "financniUrad": "290",
+    "datumVzniku": "2022-03-03",
+    "datumAktualizace": "2024-01-09",
+    "icoId": "14315866",
+    "adresaDorucovaci": {
+        "radekAdresy1": "Žitná 1476/21",
+        "radekAdresy2": "Řečkovice",
+        "radekAdresy3": "62100 Brno"
+    },
+    "seznamRegistraci": {
+        "stavZdrojeVr": "NEEXISTUJICI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "AKTIVNI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI"
+    },
+    "primarniZdroj": "rzp",
+    "czNace": [
+        "62020"
+    ]
+}
